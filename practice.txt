@@ -2,3 +2,10 @@ This is a practice.
 For command line git tutorial
 practice.txt file is edited.
 this is a second practice.
+
+
+
+
+
+
+Git pull last practice.
